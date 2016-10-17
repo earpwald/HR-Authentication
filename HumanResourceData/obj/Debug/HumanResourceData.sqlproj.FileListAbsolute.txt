@@ -3,3 +3,8 @@ c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\HumanR
 c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\HumanResourceData\bin\Debug\HumanResourceData.pdb
 c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\HumanResourceData\obj\Debug\HumanResourceData.dll
 c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\HumanResourceData\obj\Debug\HumanResourceData.pdb
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\HumanResourceData\bin\Debug\HumanResourceData.dacpac
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\HumanResourceData\bin\Debug\HumanResourceData.dll
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\HumanResourceData\bin\Debug\HumanResourceData.pdb
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\HumanResourceData\obj\Debug\HumanResourceData.dll
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\HumanResourceData\obj\Debug\HumanResourceData.pdb
