@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HumanResourceDataModelStoreContainer" CdmEntityContainer="HumanResourceDataEntities">
+    <EntitySetMapping Name="LoginHistories">
+      <EntityTypeMapping TypeName="HumanResourceDataModel.LoginHistory">
+        <MappingFragment StoreEntitySet="LoginHistory">
+          <ScalarProperty Name="Successful" ColumnName="Successful" />
+          <ScalarProperty Name="LoginAttemptTime" ColumnName="LoginAttemptTime" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="HumanResourceDataModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="Salt" ColumnName="Salt" />
+          <ScalarProperty Name="NumLoginAttempts" ColumnName="NumLoginAttempts" />
+          <ScalarProperty Name="TwoStepActive" ColumnName="TwoStepActive" />
+          <ScalarProperty Name="Pass" ColumnName="Pass" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

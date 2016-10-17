@@ -1,0 +1,8 @@
+c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\ClassLibrary1\bin\Debug\EntityFramework.dll
+c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\ClassLibrary1\bin\Debug\EntityFramework.xml
+c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\ClassLibrary1\obj\Debug\HumanResource.Data.csprojResolveAssemblyReference.cache

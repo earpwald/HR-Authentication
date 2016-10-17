@@ -1,0 +1,5 @@
+c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\HumanResourceData\bin\Debug\HumanResourceData.dacpac
+c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\HumanResourceData\bin\Debug\HumanResourceData.dll
+c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\HumanResourceData\bin\Debug\HumanResourceData.pdb
+c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\HumanResourceData\obj\Debug\HumanResourceData.dll
+c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\HumanResourceData\obj\Debug\HumanResourceData.pdb
