@@ -72,6 +72,7 @@
     <Compile Include="LoginHistory.cs">
       <DependentUpon>HumanResources.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\LoginHistoryModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User.cs">
       <DependentUpon>HumanResources.tt</DependentUpon>

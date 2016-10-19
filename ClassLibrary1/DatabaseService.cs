@@ -27,14 +27,13 @@ namespace HumanResources.Data
 
         public void GenerateLoginAttempt(string username, bool success)
         {
-            LoginHistory loginAttempt = new LoginHistory
+            LoginHistoryModel loginAttempt = new LoginHistoryModel
             {
-                LoginAttemptTime = DateTime.Now,
                 Username = username,
                 Successful = success
             };
 
-            _db.LoginHistories.Add(loginAttempt);
+            _db.LoginHistories.Add(loginAttempt.GetDataModel());
             _db.SaveChanges();
         }
     }

@@ -9,3 +9,14 @@ c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\ClassL
 c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\ClassLibrary1\bin\Debug\BCrypt.Net.pdb
 c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\ClassLibrary1\bin\Debug\BCrypt.Net.xml
 c:\users\earpwald\documents\visual studio 2012\Projects\HumanResourceData\ClassLibrary1\obj\Debug\HumanResources.Data.csprojResolveAssemblyReference.cache
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\ClassLibrary1\bin\Debug\HumanResources.Data.dll.config
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\ClassLibrary1\bin\Debug\HumanResources.Data.dll
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\ClassLibrary1\bin\Debug\HumanResources.Data.pdb
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\ClassLibrary1\bin\Debug\BCrypt.Net.dll
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\ClassLibrary1\bin\Debug\BCrypt.Net.pdb
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\ClassLibrary1\bin\Debug\BCrypt.Net.xml
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\ClassLibrary1\obj\Debug\HumanResources.Data.csprojResolveAssemblyReference.cache
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\ClassLibrary1\obj\Debug\HumanResources.Data.dll
+C:\Users\earpwald\Documents\Visual Studio 2012\Projects\HumanResourceData\HR-Authentication\ClassLibrary1\obj\Debug\HumanResources.Data.pdb
